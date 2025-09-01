@@ -54,7 +54,7 @@ export default function Sidebar({userName}: SidebarProps) {
               <Avatar
                 size = "42"
                 radius = "xl"
-                src= "public/mypic.jpg"
+                src= "/mypic.jpg"
               />
             </Indicator>
             <Text>{userName}</Text>
